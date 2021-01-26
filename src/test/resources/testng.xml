@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Tests" verbose="5">
+<listeners>
+        <listener class-name="reporting.ExtentReporterNG"/>
+</listeners>
+  <!-- <test name="Test1">
+    <classes>
+      <class name="com.maven.Amazon.AmazonProject.SampleTestNgTest"/>
+    </classes>
+  </test>  --> 
+  <test name="TestAmazon">
+    <classes>
+      <class name="amazonTestCases.SignInTest"/>
+    </classes>
+  </test> 
+</suite>
