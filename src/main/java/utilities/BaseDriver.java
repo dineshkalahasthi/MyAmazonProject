@@ -1,6 +1,7 @@
 package utilities;
 
 import java.io.IOException;
+import java.util.concurrent.TimeUnit;
 
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
@@ -26,6 +27,7 @@ public class BaseDriver {
 		case "chrome":
 			System.setProperty("webdriver.chrome.driver","/Users/dineshkalahasthi/Drivers/chromedriver_87");
 			driver=new ChromeDriver();
+			driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 			break;
 
 //		case "firefox":
