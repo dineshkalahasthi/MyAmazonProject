@@ -1,5 +1,6 @@
 package amazonTestCases;
 
+import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -12,6 +13,7 @@ import utilities.SeleniumWebDriverFactory;
 public class SignInTest extends SeleniumWebDriverFactory {
 
 	public static Logger log=LogConfig.getLogger(SignInTest.class);
+	//public static Logger log=LogManager.getLogger(SignInTest.class);
 
 	@Test(description = "Verify Amazon Sign In is successful:")
 	public void ValidateTestSignIn() {

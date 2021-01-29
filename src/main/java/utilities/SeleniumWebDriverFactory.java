@@ -3,6 +3,8 @@ package utilities;
 import java.io.IOException;
 import java.net.URL;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.Capabilities;
 import org.openqa.selenium.WebDriver;
 import org.testng.ITestContext;
@@ -25,11 +27,12 @@ public class SeleniumWebDriverFactory extends BaseDriver {
 	protected static URL gridHubUrl = null;
 	protected static String baseUrl;
 	protected static Capabilities capabilities;
+	public static Logger log = LogConfig.getLogger(SeleniumWebDriverFactory.class);
+	//public static Logger log = LogManager.getLogger(SeleniumWebDriverFactory.class);
 
 	// protected WebDriver driver;
 	public SeleniumWebDriverFactory() {
 		super();
-		SeleniumWebDriverFactory.log = LogConfig.getLogger(SeleniumWebDriverFactory.class);
 	}
 
 	public void setDriver(WebDriver driver) throws IOException {
@@ -49,7 +52,7 @@ public class SeleniumWebDriverFactory extends BaseDriver {
 	      gridHubUrl = new URL(config.getProperty("grid.url"));
 	    }
 	    capabilities = config.getCapabilities();
-	   // System.out.println(capabilities);
+	  // System.out.println("Before Suite");
 	  }
 
 //	  @BeforeMethod
@@ -61,7 +64,7 @@ public class SeleniumWebDriverFactory extends BaseDriver {
 	@BeforeMethod
 	public void BeforeMehod() throws IOException {
 		setDriver(driver);
-		driver = getCurrentDriver();
+		//driver = getCurrentDriver();
 		log.info("Driver initated");
 		// System.out.println(baseUrl);
 		driver.get(baseUrl);
