@@ -706,3 +706,7 @@
 
 30-Jan-2021 19:27:30.337  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
 
+30-Jan-2021 20:07:06.258  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+30-Jan-2021 20:07:14.963  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
+
