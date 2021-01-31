@@ -12,7 +12,7 @@ public class LogConfig {
 	static {
 		StatusLogger.getLogger().setLevel(Level.OFF);
 	   // System.out.println(LogConfig.class.getResource("src/main/resources/log4j2.xml").getPath());
-		String configPath=LogConfig.class.getResource("/resources/log4j2.xml").getPath().toLowerCase();
+		String configPath=LogConfig.class.getResource("/log4j/log4j2.xml").getPath().toLowerCase();
 		//String configPath= new File(LogConfig.class.getResource("/utilities/log4j2.xml").getPath());
 		//System.out.println(configPath);
 		//String configPath=LogConfig.class.getResource("/log4j2.properties").getPath();
