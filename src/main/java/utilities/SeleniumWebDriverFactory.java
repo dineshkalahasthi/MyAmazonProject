@@ -14,7 +14,7 @@ import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 
-import resources.LogConfig;
+import reporting.LogConfig;
 import resources.SuiteConfiguration;
 import ru.stqa.selenium.factory.WebDriverPool;
 

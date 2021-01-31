@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 import AmazonPageObjects.AmazonHomeObjects;
 import AmazonPageObjects.SignInPageObjects;
-import resources.LogConfig;
+import reporting.LogConfig;
 import utilities.SeleniumWebDriverFactory;
 
 public class SignInTest extends SeleniumWebDriverFactory {
