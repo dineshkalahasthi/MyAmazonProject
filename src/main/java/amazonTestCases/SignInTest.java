@@ -55,6 +55,6 @@ public class SignInTest extends SeleniumWebDriverFactory {
 	public void TestFail() {
 		AmazonHomeObjects home = new AmazonHomeObjects(driver);
 		log.info("Title of the page : " + driver.getTitle());
-		Assert.assertEquals(driver.getTitle(),"Amazon Sign In");
+		Assert.assertEquals(driver.getTitle(),"Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in");
 	}
 }
