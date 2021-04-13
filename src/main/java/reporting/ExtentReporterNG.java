@@ -6,6 +6,8 @@ import java.util.Date;
 import java.util.List;
 import java.util.Map;
 
+import javax.mail.MessagingException;
+
 import org.testng.IReporter;
 import org.testng.IResultMap;
 import org.testng.ISuite;
@@ -38,6 +40,13 @@ public class ExtentReporterNG implements IReporter{
 		}
 		report.flush();
 		report.close();
+//		MailServicewithHtml mail=new MailServicewithHtml();
+//		try {
+//			mail.ShareMailReport(OutputDirectory+File.separator+"ExtentReport.html");
+//		} catch (MessagingException e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		}
 
 	}
 

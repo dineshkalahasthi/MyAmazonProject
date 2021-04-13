@@ -28,7 +28,7 @@ public class BaseDriver {
 		//System.out.println(Browser);
 		switch(Browser) {
 		case "chrome":
-			System.setProperty("webdriver.chrome.driver","/Users/dineshkalahasthi/Drivers/chromedriver_87");
+			System.setProperty("webdriver.chrome.driver","/Users/dineshkalahasthi/Drivers/chromedriver");
 			//System.out.println("Broswer");
 			driver=new ChromeDriver();
 			break;

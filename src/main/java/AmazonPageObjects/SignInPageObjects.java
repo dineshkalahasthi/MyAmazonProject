@@ -12,6 +12,7 @@ public class SignInPageObjects {
 	public SignInPageObjects(WebDriver driver) {
 		super();
 		PageFactory.initElements(driver, this);
+		
 	}
 	
 	@FindBy(how=How.ID,using="ap_email") private WebElement USERNAME;
@@ -20,14 +21,16 @@ public class SignInPageObjects {
 	@FindBy(how=How.ID,using="signInSubmit") private static WebElement SIGNIN_SUBMIT_BUTTON;
 	
 	
-	public void UserNameAction(String userName) {
+	public SignInPageObjects UserNameAction(String userName) {
 		USERNAME.clear();
 		USERNAME.click();
 		USERNAME.sendKeys(userName);
+		return this;
 	}
 	
-	public void ClickContinue() {
+	public SignInPageObjects ClickContinue() {
 		SIGNIN_CONTINUE_BUTTON.click();
+		return this;
 	}
 	public void PasswordAction(String pwd) {
 		PASSWORD.clear();

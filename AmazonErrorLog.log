@@ -726,3 +726,337 @@
 
 31-Jan-2021 13:58:18.515  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
 
+31-Jan-2021 13:59:19.919  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+31-Jan-2021 13:59:29.368  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
+
+31-Jan-2021 14:02:07.410  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+31-Jan-2021 14:02:15.175  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
+
+31-Jan-2021 14:17:21.061  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+31-Jan-2021 14:17:25.951  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
+
+31-Jan-2021 15:32:16.704  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+31-Jan-2021 15:32:24.451  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
+
+10-Feb-2021 17:23:02.447  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+10-Feb-2021 17:23:04.891  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
+
+10-Feb-2021 17:26:02.870  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+10-Feb-2021 17:26:05.309  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
+
+10-Feb-2021 17:26:50.303  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+10-Feb-2021 17:26:52.647  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
+
+10-Feb-2021 17:28:49.345  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+10-Feb-2021 17:28:51.380  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
+
+10-Feb-2021 17:34:29.548  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+10-Feb-2021 17:34:32.487  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
+
+10-Feb-2021 17:39:37.466  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+10-Feb-2021 17:39:40.645  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
+
+10-Feb-2021 21:15:52.654  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+10-Feb-2021 21:15:55.071  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
+
+10-Feb-2021 21:18:20.946  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+10-Feb-2021 21:18:23.010  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
+
+10-Feb-2021 21:21:05.138  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+10-Feb-2021 21:21:07.874  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
+
+10-Feb-2021 21:36:45.962  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+10-Feb-2021 21:36:48.505  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
+
+10-Feb-2021 21:42:42.630  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+10-Feb-2021 21:42:44.941  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
+
+24-Feb-2021 23:06:40.302  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+03-Mar-2021 21:55:06.990  INFO  [TestNG-test=TestAmazon-1] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+03-Mar-2021 21:55:11.027  INFO  [TestNG-test=TestAmazon-1] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
+
+03-Mar-2021 21:55:17.217  INFO  [TestNG-test=TestAmazon-1] amazonTestCases.SignInTest [ValidateTestSignInFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+03-Mar-2021 21:55:20.965  INFO  [TestNG-test=TestAmazon-1] amazonTestCases.SignInTest [ValidateTestSignInFail] - User logging in
+
+03-Mar-2021 21:55:21.082  INFO  [TestNG-test=TestAmazon-1] amazonTestCases.SignInTest [ValidateTestSignInFail] - Amazon Sign In After clicking on login button 
+
+03-Mar-2021 21:55:24.393  INFO  [TestNG-test=TestAmazon-1] amazonTestCases.SignInTest [ValidateTestSignInFail] - Login Failes , due to incorrect password
+
+03-Mar-2021 21:56:14.620  INFO  [TestNG-test=TestAmazon-2] amazonTestCases.SignInTest [ValidateTestSignInFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+03-Mar-2021 21:56:14.620  INFO  [TestNG-test=TestAmazon-1] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+04-Mar-2021 22:01:12.556  INFO  [TestNG-test=TestAmazon-2] amazonTestCases.SignInTest [ValidateTestSignInFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+04-Mar-2021 22:01:12.683  INFO  [TestNG-test=TestAmazon-1] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+04-Mar-2021 22:03:06.467  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+04-Mar-2021 22:03:10.408  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
+
+04-Mar-2021 22:03:17.261  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+04-Mar-2021 22:03:20.361  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - User logging in
+
+04-Mar-2021 22:03:20.602  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Amazon Sign In After clicking on login button 
+
+04-Mar-2021 22:03:23.784  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Login Failes , due to incorrect password
+
+05-Mar-2021 19:42:16.730  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 19:42:19.497  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
+
+05-Mar-2021 19:42:24.869  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 19:42:27.795  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - User logging in
+
+05-Mar-2021 19:42:29.964  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Amazon Sign In After clicking on login button 
+
+05-Mar-2021 19:42:29.976  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Login Failes , due to incorrect password
+
+05-Mar-2021 19:51:33.402  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 19:51:39.014  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 19:51:41.232  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
+
+05-Mar-2021 19:51:46.431  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 19:51:49.179  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - User logging in
+
+05-Mar-2021 19:51:51.630  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Amazon Sign In After clicking on login button 
+
+05-Mar-2021 19:51:51.637  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Login Failes , due to incorrect password
+
+05-Mar-2021 22:07:06.749  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:07:12.421  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:07:15.463  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
+
+05-Mar-2021 22:07:20.832  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:07:23.792  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - User logging in
+
+05-Mar-2021 22:07:23.950  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Amazon Sign In After clicking on login button 
+
+05-Mar-2021 22:07:26.437  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Login Failes , due to incorrect password
+
+05-Mar-2021 22:16:23.157  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:16:28.803  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:16:32.156  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
+
+05-Mar-2021 22:16:38.928  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:16:41.754  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - User logging in
+
+05-Mar-2021 22:16:41.938  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Amazon Sign In After clicking on login button 
+
+05-Mar-2021 22:16:44.235  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Login Failes , due to incorrect password
+
+05-Mar-2021 22:23:52.003  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:23:57.295  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:24:02.509  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:24:07.685  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:24:13.313  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:24:19.426  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:26:39.870  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:26:45.041  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:26:50.126  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:26:55.357  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:27:00.730  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:27:06.003  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:28:05.949  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:28:11.031  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:28:16.483  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:28:21.627  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:28:26.796  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:28:32.160  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:28:37.325  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:28:42.504  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:28:48.130  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:30:23.133  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:30:28.846  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:30:34.271  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:30:37.235  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
+
+05-Mar-2021 22:30:42.313  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:30:44.795  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - User logging in
+
+05-Mar-2021 22:30:46.963  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Amazon Sign In After clicking on login button 
+
+05-Mar-2021 22:30:46.970  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Login Failes , due to incorrect password
+
+05-Mar-2021 22:33:09.629  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:33:15.719  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:33:21.301  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:33:24.183  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
+
+05-Mar-2021 22:33:29.801  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 22:33:32.558  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - User logging in
+
+05-Mar-2021 22:33:34.842  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Amazon Sign In After clicking on login button 
+
+05-Mar-2021 22:33:34.849  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Login Failes , due to incorrect password
+
+05-Mar-2021 23:01:04.992  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:01:10.129  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:01:16.518  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:01:19.532  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
+
+05-Mar-2021 23:01:24.802  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:01:27.461  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - User logging in
+
+05-Mar-2021 23:01:29.555  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Amazon Sign In After clicking on login button 
+
+05-Mar-2021 23:01:29.564  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Login Failes , due to incorrect password
+
+05-Mar-2021 23:13:05.555  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:13:12.353  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:15:24.749  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:15:30.130  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:15:32.549  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
+
+05-Mar-2021 23:15:37.492  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:15:39.533  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - User logging in
+
+05-Mar-2021 23:15:41.825  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Amazon Sign In After clicking on login button 
+
+05-Mar-2021 23:15:41.831  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Login Failes , due to incorrect password
+
+05-Mar-2021 23:28:24.310  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:28:31.210  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:31:10.685  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:31:16.334  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:33:09.563  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:33:14.941  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:34:33.620  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:34:38.958  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:34:41.338  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignIn] - User logging in
+
+05-Mar-2021 23:34:46.378  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:34:50.354  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - User logging in
+
+05-Mar-2021 23:34:52.749  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Amazon Sign In After clicking on login button 
+
+05-Mar-2021 23:34:52.755  INFO  [main] amazonTestCases.SignInTest [ValidateTestSignInFail] - Login Failes , due to incorrect password
+
+05-Mar-2021 23:39:46.657  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:39:59.304  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:44:23.445  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:44:31.472  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:44:47.939  INFO  [main] amazonTestCases.SignInTest [TestSignInFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:44:53.591  INFO  [main] amazonTestCases.SignInTest [TestSignInFail] - User logging in
+
+05-Mar-2021 23:44:53.774  INFO  [main] amazonTestCases.SignInTest [TestSignInFail] - Amazon Sign In After clicking on login button 
+
+05-Mar-2021 23:44:56.818  INFO  [main] amazonTestCases.SignInTest [TestSignInFail] - Login Failes , due to incorrect password
+
+05-Mar-2021 23:45:03.183  INFO  [main] amazonTestCases.SignInTest [TestSignInSuccess] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:45:07.450  INFO  [main] amazonTestCases.SignInTest [TestSignInSuccess] - User logging in
+
+05-Mar-2021 23:52:57.068  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:53:03.526  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:53:09.723  INFO  [main] amazonTestCases.SignInTest [TestSignInFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:53:12.121  INFO  [main] amazonTestCases.SignInTest [TestSignInFail] - User logging in
+
+05-Mar-2021 23:53:14.368  INFO  [main] amazonTestCases.SignInTest [TestSignInFail] - Amazon Sign In After clicking on login button 
+
+05-Mar-2021 23:53:14.374  INFO  [main] amazonTestCases.SignInTest [TestSignInFail] - Login Failes , due to incorrect password
+
+05-Mar-2021 23:53:19.410  INFO  [main] amazonTestCases.SignInTest [TestSignInSuccess] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+05-Mar-2021 23:53:21.958  INFO  [main] amazonTestCases.SignInTest [TestSignInSuccess] - User logging in
+
+06-Mar-2021 00:04:06.289  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+06-Mar-2021 00:04:17.098  INFO  [main] amazonTestCases.SignInTest [TestFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+06-Mar-2021 00:04:24.097  INFO  [main] amazonTestCases.SignInTest [TestSignInFail] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+06-Mar-2021 00:04:28.440  INFO  [main] amazonTestCases.SignInTest [TestSignInFail] - User logging in
+
+06-Mar-2021 00:04:30.759  INFO  [main] amazonTestCases.SignInTest [TestSignInFail] - Amazon Sign In After clicking on login button 
+
+06-Mar-2021 00:04:30.767  INFO  [main] amazonTestCases.SignInTest [TestSignInFail] - Login Failes , due to incorrect password
+
+06-Mar-2021 00:04:35.722  INFO  [main] amazonTestCases.SignInTest [TestSignInSuccess] - Title of the page : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+06-Mar-2021 00:04:38.218  INFO  [main] amazonTestCases.SignInTest [TestSignInSuccess] - User logging in
+

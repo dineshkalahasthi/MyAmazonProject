@@ -3,6 +3,10 @@ package utilities;
 import java.io.IOException;
 import java.net.URL;
 
+import javax.mail.MessagingException;
+import javax.mail.internet.AddressException;
+
+import org.apache.commons.mail.EmailException;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.Capabilities;
@@ -15,6 +19,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 
 import reporting.LogConfig;
+import reporting.MailServicewithHtml;
 import resources.SuiteConfiguration;
 import ru.stqa.selenium.factory.WebDriverPool;
 
@@ -29,10 +34,11 @@ public class SeleniumWebDriverFactory extends BaseDriver {
 	protected static Capabilities capabilities;
 	public static Logger log = LogConfig.getLogger(SeleniumWebDriverFactory.class);
 	//public static Logger log = LogManager.getLogger(SeleniumWebDriverFactory.class);
-
+public static MailServicewithHtml mail;
 	// protected WebDriver driver;
 	public SeleniumWebDriverFactory() {
 		super();
+		mail= new MailServicewithHtml();
 	}
 
 	public void setDriver(WebDriver driver) throws IOException {
@@ -87,10 +93,12 @@ public class SeleniumWebDriverFactory extends BaseDriver {
 //	}
 
 	@AfterSuite(alwaysRun = true)
-	public void AfterSuite(ITestContext context) {
+	public void AfterSuite(ITestContext context) throws AddressException, MessagingException, EmailException {
 //		ExtentReportNG rep = new ExtentReportNG();
 //		rep.generateReport(xmlSuite.);
 //		System.out.println(context.getSuite().toString());
 		WebDriverPool.DEFAULT.dismissAll();
+//		mail.ShareMailReport("/Users/dineshkalahasthi/AmazonWorkspace/AmazonProject/target/surefire-reports/ExtentReport.html");
+//		mail.MailWithHtml();
 	}
 }

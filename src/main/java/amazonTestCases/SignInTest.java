@@ -16,7 +16,7 @@ public class SignInTest extends SeleniumWebDriverFactory {
 	//public static Logger log=LogManager.getLogger(SignInTest.class);
 
 	@Test(description = "Verify Amazon Sign In is successful:")
-	public void ValidateTestSignIn() {
+	public void TestSignInSuccess() {
 		AmazonHomeObjects home = new AmazonHomeObjects(driver);
 		log.info("Title of the page : " + driver.getTitle());
 		home.GlobalSignInAction("click");
@@ -26,6 +26,7 @@ public class SignInTest extends SeleniumWebDriverFactory {
 		signIn.PasswordAction("Amazon@123");
 		log.info("User logging in");
 		
+		
 //		signIn.ClickSubmitButton();
 //		log.info(driver.getTitle() + " After clicking on login button ");
 //		//Assert.assertEquals(driver.getTitle()," Your Amazon.in");
@@ -34,8 +35,8 @@ public class SignInTest extends SeleniumWebDriverFactory {
 //		Assert.assertEquals(driver.getTitle(),"Amazon Sign In");
 	}
 
-	//@Test(description = "Amazon Sign In fail test:")
-	public void ValidateTestSignInFail() {
+	@Test(description = "Amazon Sign In fail test:")
+	public void TestSignInFail() {
 		AmazonHomeObjects home = new AmazonHomeObjects(driver);
 		log.info("Title of the page : " + driver.getTitle());
 		home.GlobalSignInAction("click");
@@ -48,5 +49,12 @@ public class SignInTest extends SeleniumWebDriverFactory {
 		log.info(driver.getTitle() + " After clicking on login button ");
 		Assert.assertEquals(driver.getTitle(),"Amazon Sign In");
 		log.info("Login Failes , due to incorrect password");
+	}
+	
+	@Test(description="Failed Test retry ")
+	public void TestFail() {
+		AmazonHomeObjects home = new AmazonHomeObjects(driver);
+		log.info("Title of the page : " + driver.getTitle());
+		Assert.assertEquals(driver.getTitle(),"Amazon Sign In");
 	}
 }

@@ -3,15 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="amazonTestCases.TestSignIn">
+      <class name="amazonTestCases.TestLoginPageBrokenLinks">
         <methods>
-          <include name="ValidateTestSignIn"/>
-          <include name="tearDown"/>
+          <include name="AfterSuite"/>
+          <include name="BeforeMehod"/>
+          <include name="AfterMethod"/>
           <include name="initTestSuite"/>
-          <include name="stopBrowser"/>
-          <include name="BeforeTest"/>
+          <include name="verifyLoginPageBrokenLinks"/>
         </methods>
-      </class> <!-- amazonTestCases.TestSignIn -->
+      </class> <!-- amazonTestCases.TestLoginPageBrokenLinks -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

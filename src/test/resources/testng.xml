@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name="Tests" verbose="5">
+<suite name="Tests" thread-count="2" verbose="5">
 <listeners>
         <listener class-name="reporting.ExtentReporterNG"/>
+        <listener class-name="utilities.TestListeners"/>
+        <listener class-name="utilities.AnnotationTransformer"/>
 </listeners>
   <!-- <test name="Test1">
     <classes>
